@@ -10,3 +10,4 @@ docs/
 .vscode/
 _build/
 scenarios/
+*
